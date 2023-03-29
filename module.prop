@@ -1,7 +1,7 @@
 id=Wifi-fix-module
 name=Wifi-fix-module
 version=v1.0
-versionCode=<int>
+versionCode=10
 author=It's-me-cyber
 description=Magisk Module that fixes the wifi problem in Syria (may work for other countries if same prob)
 updateJson=https://github.com/its-me-cyber/Wifi-fix-module
