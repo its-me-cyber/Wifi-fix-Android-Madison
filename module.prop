@@ -1,7 +1,7 @@
 id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
+name=
+version=v1.0alpha
 versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+author=It's-me-cyber
+description=Magisk Module that fixes the wifi problem in Syria (may work for other countries if same prob)
+updateJson=https://github.com/its-me-cyber/Wifi-fix-module
